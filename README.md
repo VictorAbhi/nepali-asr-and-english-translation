@@ -5,7 +5,7 @@ This project provides real-time transcription of Nepali speech and translation i
 ## Features
 - Live or uploaded audio transcription (Nepali)
 - Real-time or near real-time translation to English
-- Streamlit-based UI( I don't know might implement in flask or django, depends on time availability)
+- Streamlit-based UI( I don't know might deploy in flask or django, depends on time availability)
 
 ## To Run
 ```bash
