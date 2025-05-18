@@ -1,4 +1,4 @@
-# Nepali Live Translator
+# Nepali Live Transcription and Translator
 
 This project provides real-time transcription of Nepali speech and translation into English using OpenAI Whisper and MarianMT.
 
