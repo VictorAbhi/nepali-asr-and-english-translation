@@ -1,12 +1,7 @@
-transformers==4.40.1
-huggingface_hub==0.23.0
-datasets
-torchaudio
-librosa
-soundfile
-torch
-numpy
-scipy
-sounddevice
-jiwer
+# Requirements for Nepali ASR and English Translation project
+torch>=1.10.0,<2.2.0
 ffmpeg-python
+transformers>=4.30.0
+sentencepiece
+fairseq
+numpy
