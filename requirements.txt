@@ -1,7 +1,10 @@
 # Requirements for Nepali ASR and English Translation project
 torch>=1.10.0,<2.2.0
 ffmpeg-python
-transformers>=4.30.0
+pytorch
+transformers
+librosa
+jiwer
 sentencepiece
 fairseq
 numpy
